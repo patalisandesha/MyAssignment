@@ -1,0 +1,7 @@
+D:\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe.config
+D:\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe
+D:\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.pdb
+D:\RestaurantApp\RestaurantApp\obj\Debug\Restaurantte.csprojAssemblyReference.cache
+D:\RestaurantApp\RestaurantApp\obj\Debug\Restaurantte.csproj.CoreCompileInputs.cache
+D:\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.exe
+D:\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.pdb
